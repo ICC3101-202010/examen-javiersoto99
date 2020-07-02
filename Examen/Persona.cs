@@ -2,7 +2,7 @@
 
 namespace Examen
 {
-    public class Persona
+    public class Persona : IPersona
     {
         public string nombre;
         public int edad;
