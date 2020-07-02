@@ -23,9 +23,13 @@ namespace Examen
 
         public void mostrarJugadores()
         {
+            int i = 0;
             foreach(Jugador j in jugadores)
             {
+                Console.WriteLine("Jugador "+(i+1)+ ":");
                 j.InfoJ();
+                i++;
+                Console.WriteLine(" ");
             }
         }
 
