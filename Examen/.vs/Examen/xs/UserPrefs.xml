@@ -1,15 +1,20 @@
 ﻿<Properties StartupConfiguration="{76F8A1DC-0D39-466B-AB48-BD401985663D}|Default">
   <MonoDevelop.Ide.ItemProperties.Examen FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Medico.cs">
     <Files>
-      <File FileName="Program.cs" Line="9" Column="46" />
+      <File FileName="Program.cs" Line="13" Column="1" />
+      <File FileName="Equipo.cs" Line="7" Column="1" />
+      <File FileName="Persona.cs" Line="17" Column="10" />
+      <File FileName="Jugador.cs" Line="14" Column="10" />
+      <File FileName="Entrenador.cs" Line="13" Column="1" />
+      <File FileName="Medico.cs" Line="6" Column="6" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Examen" expanded="True">
             <Node name="Examen" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="Medico.cs" selected="True" />
             </Node>
           </Node>
         </State>

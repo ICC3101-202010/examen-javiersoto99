@@ -1,0 +1,5 @@
+/Users/javier/Desktop/examen-javiersoto99/Examen/bin/Debug/Examen.exe
+/Users/javier/Desktop/examen-javiersoto99/Examen/bin/Debug/Examen.pdb
+/Users/javier/Desktop/examen-javiersoto99/Examen/obj/Debug/Examen.csprojAssemblyReference.cache
+/Users/javier/Desktop/examen-javiersoto99/Examen/obj/Debug/Examen.exe
+/Users/javier/Desktop/examen-javiersoto99/Examen/obj/Debug/Examen.pdb
